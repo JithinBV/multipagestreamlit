@@ -5,7 +5,7 @@ import pandas as pd
 from langchain.llms import AzureOpenAI
 from pandasai import PandasAI
 from dotenv import load_dotenv
-from langchain_experimental.agents.create_csv_agent import create_csv_agent
+from langchain_experimental import create_csv_agent
 
 
 load_dotenv()
