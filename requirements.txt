@@ -12,3 +12,4 @@ openai
 tabulate
 pandasai
 langchain_experimental
+streamlit_option_menu
